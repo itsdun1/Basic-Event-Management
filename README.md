@@ -14,3 +14,5 @@ https://www.getpostman.com/collections/d42a5f5187c1aa70614e
 Used Sequelize as ORM. 
 
 Node v - 14.15.5
+
+Assinment Point 1-2 Present in Yocket Assignmet Point 1-2 Folder
